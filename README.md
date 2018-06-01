@@ -1,0 +1,1 @@
+# sitecore-azure-configtransform
